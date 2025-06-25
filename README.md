@@ -1,4 +1,4 @@
-# Cart functionality
+# Quiz app
 
 <img src="public/preview.png" alt="Project Preview" width="800"/>
 
